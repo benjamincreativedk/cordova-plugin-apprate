@@ -109,7 +109,13 @@ Locales.addLocale({
   message: "Hvis du kan lide at bruge %@, vil du så ikke bruge et øjeblik på at give en vurdering? Det tager ikke mere end et minut. Mange tak for hjælpen!",
   cancelButtonLabel: "Nej tak",
   laterButtonLabel: "Påmind mig senere",
-  rateButtonLabel: "Vurdér nu"
+  rateButtonLabel: "Vurdér nu",
+  yesButtonLabel: "Ja!",
+  noButtonLabel: "Ikke rigtigt",
+  appRatePromptTitle: 'Kan du lige at bruge %@',
+  feedbackPromptTitle: 'Har du lyst til at give os feedback?',
+  appRatePromptMessage:'',
+  feedbackPromptMessage:''
 });
 
 Locales.addLocale({
